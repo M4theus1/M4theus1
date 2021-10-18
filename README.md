@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🔭 No momento sou estudante tentando sua primeira vaga :)
+- 🔭 No momento sou estudante de técnico em informática tentando sua primeira vaga :)
 - 🌱 Estou aprendendo Python
 - 📫 Contate-me no e-mail: matheus.silva.alves2909@gmail.com
 - 😄 Pronomes: Ele/Dele 
