@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo Python para foco em Dados
 - 📫 Contate-me no e-mail: matheus.silva.alves2909@gmail.com
-- 😄 Pronomes: Ele/Dele 
+
 
 <div align="center">
   <a href="https://github.com/M4theus1">
