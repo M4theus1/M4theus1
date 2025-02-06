@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🌱 Estou aprendendo Python para foco em Dados
+
 - 📫 Contate-me no e-mail: matheus.silva.alves2909@gmail.com
 
 
