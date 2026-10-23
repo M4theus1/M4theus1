@@ -6,7 +6,7 @@ Profissional de TI com experiência em infraestrutura e suporte técnico, direci
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou profissional de Tecnologia da Informação, graduando em **Sistemas de Informação** e Técnico em Informática, com experiência em suporte técnico, infraestrutura e sistemas corporativos.
 
@@ -14,7 +14,7 @@ Atualmente, direciono meus estudos e projetos para o desenvolvimento **Back-End 
 
 Minha experiência profissional contribui para minha compreensão de ambientes corporativos, diagnóstico de problemas, análise de incidentes e melhoria de processos.
 
-### 🛠️ Tecnologias e ferramentas
+###  Tecnologias e ferramentas
 
 **Back-End**
 - Java
@@ -41,7 +41,7 @@ Minha experiência profissional contribui para minha compreensão de ambientes c
 - CRUD, validação e tratamento de exceções
 - Testes e documentação de APIs
 
-### 📌 Projetos em destaque
+###  Projetos em destaque
 
 **API de Gerenciamento de Tarefas**
 - API REST desenvolvida com Java e Spring Boot.
