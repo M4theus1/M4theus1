@@ -62,23 +62,23 @@ Minha experiência profissional contribui para minha compreensão de ambientes c
 
 > Acesse os repositórios para consultar o código-fonte, as tecnologias utilizadas e as instruções de execução de cada projeto.
 
-### 💼 Experiência profissional
+###  Experiência profissional
 
 Atuo como **Analista de Suporte Pleno na Kingspan Isoeste**, com experiência em infraestrutura de TI, administração de ambientes Windows, redes, gerenciamento de dispositivos e resolução de incidentes.
 
 Anteriormente, trabalhei como Técnico de Suporte de TI na DTEL Telecom. Essa trajetória fortaleceu minha capacidade de análise, troubleshooting e compreensão das necessidades tecnológicas de ambientes corporativos.
 
-### 🎓 Formação
+###  Formação
 
 - **Bacharelado em Sistemas de Informação** — UNIFACOL, em andamento.
 - **Técnico em Informática** — concluído.
 
-### 🌎 Idiomas
+###  Idiomas
 
 - Português — nativo.
 - Inglês — C1, conforme certificação EF SET.
 
-### 📫 Contato
+###  Contato
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-silva-alves-a596951ba/)
 - [GitHub](https://github.com/M4theus1)
