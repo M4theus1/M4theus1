@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Silva Alves
+#  Matheus Alves
 
 **Desenvolvedor Back-End Java** | Java • Spring Boot • APIs REST • JPA/Hibernate • SQL
 
